@@ -1,5 +1,5 @@
 {
-	"name": "paymaya/paymaya-sdk",
+	"name": "paymaya/paymaya-sdkx",
 	"type": "library",
 	"description": "PHP SDK for PayMaya APIs. Accept credit and debit card payments on your web app.",
 	"keywords": ["paymaya", "payments", "rest", "sdk"],
